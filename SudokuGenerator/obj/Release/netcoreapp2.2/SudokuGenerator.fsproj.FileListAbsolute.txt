@@ -1,0 +1,9 @@
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\bin\Release\netcoreapp2.2\SudokuGenerator.deps.json
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\bin\Release\netcoreapp2.2\SudokuGenerator.runtimeconfig.json
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\bin\Release\netcoreapp2.2\SudokuGenerator.runtimeconfig.dev.json
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\bin\Release\netcoreapp2.2\SudokuGenerator.dll
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\bin\Release\netcoreapp2.2\SudokuGenerator.pdb
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\obj\Release\netcoreapp2.2\SudokuGenerator.AssemblyInfoInputs.cache
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\obj\Release\netcoreapp2.2\SudokuGenerator.AssemblyInfo.fs
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\obj\Release\netcoreapp2.2\SudokuGenerator.dll
+C:\Users\fernanm7\Documents\Visual Studio 2017\Projects\SudokuGenerator\SudokuGenerator\obj\Release\netcoreapp2.2\SudokuGenerator.pdb
